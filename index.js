@@ -44,7 +44,7 @@ var shaders = {
     , vert: './shaders/triangle.vert'
   })(gl),
   display: createShader({
-      frag: './shaders/display.frag' cvooGzIAJb
+      frag: './shaders/display.frag'
     , vert: './shaders/triangle.vert'
   })(gl)
 }
